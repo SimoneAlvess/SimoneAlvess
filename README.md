@@ -13,8 +13,37 @@
 
 </div>
 
+### Main skills:
+
+<div align="left"> 
+  <img align="left" height="70" width="70" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/0f14d7ad-dade-4a74-8ea7-1b28cc635b3c">
+  <img align="left" height="70" width="70" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/7cb8b35d-b073-4b55-8f5d-c9d4ecff8eef">
+  <img align="left" height="70" width="70" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/36520995-d54d-4360-984e-e27d87655114">
+  <img align="left" height="70" width="70" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/dbc64161-8833-4133-adae-93cfb3d5b5fa">
+  <img align="left" height="70" width="70" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/4ba7055f-1fe1-424b-bf75-a1139a8da919">
+  <img align="left" height="70" width="70" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/c6f03a09-ce17-4c12-a355-1a82ff1a9e1e">
+</div>
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
 <div align="center">  
- 
+
+<a href="https://instagram.com/simone_alvessa" target="_blank">
+<img align="center" height="50" width="50" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/58ad73f3-5187-4f3c-a1f4-5793a56b7a85"/>
+</a>
+
+<a href="https://br.linkedin.com/in/simone-alves-sa" target="_blank">
+<img align="center" height="50" width="50" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/a0f83959-fa1b-4779-a633-3cd32af501ef"/>
+</a>
+
+<a href="simonealvess274@gmail.com" target="_blank">
+<img align="center" height="50" width="50" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/f493f434-0086-43e3-9df7-1f18fcd01cf9"/>
+</a>
 
 </div>
 
