@@ -44,7 +44,7 @@
 <img align="center" height="50" width="50" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/a0f83959-fa1b-4779-a633-3cd32af501ef"/>
 </a>
 
-<a href="simonealvess274@gmail.com" target="_blank">
+<a href="mailto:cmp.1a.simonealvess274@gmail.com" target="_blank">
 <img align="center" height="50" width="50" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/f493f434-0086-43e3-9df7-1f18fcd01cf9"/>
 </a>
 
