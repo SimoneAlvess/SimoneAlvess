@@ -25,16 +25,16 @@
 ##
 
 <div>
-  <a href="https://www.instagram.com/simone_alvessa/"  target="_blank">
+  <a href="https://www.instagram.com/simone_alvessa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/simonealvessantoss"  target="_blank">
+  <a href="https://www.facebook.com/simonealvessantoss" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/simone-alves-sa"  target="_blank">
+  <a href="https://linkedin.com/in/simone-alves-sa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:simonealvess274@gmail.com"  target="_blank">
+  <a href="mailto:simonealvess274@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
