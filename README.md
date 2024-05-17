@@ -1,21 +1,23 @@
-<img width=100% bottom=50px src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/65f6d951-a22f-42d3-8603-e25dee084812"/>
+<h2>👋 Welcome to my profile, I'm Simone</h2>
+<p>🎓 | Graduated in Library Science 
+<br>👩‍💻 | Full Stack Developer</p>
 
+<br>
 
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SimoneAlvess&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Simone Alves github stats"/>
-  <img  width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneAlvess&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117"/>
+<img  width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneAlvess&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117"/>
 </div>
 
 
 ### Main skills
 
 <div align="left"> 
-  <img align="left" height="60" width="60" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/0f14d7ad-dade-4a74-8ea7-1b28cc635b3c">
-  <img align="left" height="60" width="60" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/7cb8b35d-b073-4b55-8f5d-c9d4ecff8eef">
-  <img align="left" height="60" width="60" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/36520995-d54d-4360-984e-e27d87655114">
-  <img align="left" height="60" width="60" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/dbc64161-8833-4133-adae-93cfb3d5b5fa">
-  <img align="left" height="60" width="60" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/4ba7055f-1fe1-424b-bf75-a1139a8da919">
-  <img align="left" height="60" width="60" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/c6f03a09-ce17-4c12-a355-1a82ff1a9e1e">
+  <img align="left" height="50" width="50" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/0f14d7ad-dade-4a74-8ea7-1b28cc635b3c">
+  <img align="left" height="50" width="50" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/7cb8b35d-b073-4b55-8f5d-c9d4ecff8eef">
+  <img align="left" height="50" width="50" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/36520995-d54d-4360-984e-e27d87655114">
+  <img align="left" height="50" width="50" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/4ba7055f-1fe1-424b-bf75-a1139a8da919">
+  <img align="left" height="50" width="50" src="https://github.com/SimoneAlvess/SimoneAlvess/assets/139272427/c6f03a09-ce17-4c12-a355-1a82ff1a9e1e">
 </div>
 
 <br>
