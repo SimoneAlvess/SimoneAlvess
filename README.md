@@ -1,6 +1,4 @@
-<h2>👋 Welcome to my profile, I'm Simone</h2>
-<p>🎓 | Graduated in Library Science 
-<br>👩‍💻 | Full Stack Developer</p>
+<h2>👋 Welcome to my profile!</h2>
 
 <br>
 
